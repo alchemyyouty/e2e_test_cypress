@@ -1,0 +1,2 @@
+# es2_test_cypress
+cypressのビジュアルリグレッションテストのテストリポジトリ
