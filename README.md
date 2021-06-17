@@ -1,2 +1,2 @@
-# es2_test_cypress
+# e2e_test_cypress
 cypressのビジュアルリグレッションテストのテストリポジトリ
